@@ -1,0 +1,10 @@
+*.o
+*.out
+./build
+*.ll
+*.tmp
+*.s
+*.bc
+# output of pass:
+translated
+
